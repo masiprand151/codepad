@@ -1,0 +1,26 @@
+{
+  "name": "codepad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masiprand151/codepad.git"
+  },
+  "keywords": [
+    "code",
+    "editor"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masiprand151/codepad/issues"
+  },
+  "homepage": "https://github.com/masiprand151/codepad#readme",
+  "devDependencies": {
+    "electron": "^13.5.1"
+  }
+}
