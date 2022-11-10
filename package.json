@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/masiprand151/codepad#readme",
   "devDependencies": {
-    "electron": "^13.5.1"
+    "electron": "^18.3.7"
   }
 }
